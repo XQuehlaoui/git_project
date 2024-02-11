@@ -7,7 +7,7 @@ public class hello {
 		System.out.println("Bonjour, aujourd'hui on va travailler avec GIT");
 		
 		// New line
-		System.out.println("Ziyad says hello from Agadir!");
+		System.out.println("test rebase!");
 
 	}
 
